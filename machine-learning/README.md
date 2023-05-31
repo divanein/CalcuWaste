@@ -7,6 +7,7 @@ Turner, D. A., Williams, I. D., & Kemp, S. (2015). Greenhouse gas emission facto
 https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 https://www.kaggle.com/datasets/yacharki/manon-str-cleaned-dataset
 https://www.kaggle.com/datasets/mrk1903/garbage
+For more references, refer to: https://docs.google.com/spreadsheets/d/1fcXfXuKJbmPWHtu7D_Wj8RUo2sy0pk_yDTAzwUaN95s/edit#gid=0
 
 <h1>Note for Adjustment</h1>
 According to the timeline, the current version of ML is simplified into 5 categories to the planned 17 categories to ensure functionality and to test the deployment faster. The categories we included in the first phase are Glass_ClearGlass; Metal_AluminiumCans; Paper_Paper; Plastic_PET; Textiles_Textiles.
