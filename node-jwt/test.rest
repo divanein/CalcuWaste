@@ -1,8 +1,0 @@
-GET http://localhost:1500
-###
-POST http://localhost:1500 
-Content-Type: application/json
-bearer:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJ1amljb2JhIiwiZW1haWwiOiJlbWFpbEBleGFtcGxlLmNvbSIsImlhdCI6MTY4NTQzMDEzMCwiZXhwIjoxNjg1NDMwMTYwfQ.DqfY7z_5od_qXBt5BE7F_ar0VvkRpM1YAaK_plhMI_U
-###
-POST http://localhost:1500/login
-###
