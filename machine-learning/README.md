@@ -4,9 +4,9 @@ The ML path part of this app is categorizing uploaded images of recyclables into
 <h1>Reference (Emission Factor)</h1>
 Turner, D. A., Williams, I. D., & Kemp, S. (2015). Greenhouse gas emission factors for recycling of source-segregated waste materials. Resources, Conservation and Recycling, 105, 186–197. https://doi.org/10.1016/j.resconrec.2015.10.026 
 <h1>Reference (Dataset)</h1>
-https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
-https://www.kaggle.com/datasets/yacharki/manon-str-cleaned-dataset
-https://www.kaggle.com/datasets/mrk1903/garbage
+https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification<br>
+https://www.kaggle.com/datasets/yacharki/manon-str-cleaned-dataset<br>
+https://www.kaggle.com/datasets/mrk1903/garbage<br>
 For more references, refer to: https://docs.google.com/spreadsheets/d/1fcXfXuKJbmPWHtu7D_Wj8RUo2sy0pk_yDTAzwUaN95s/edit#gid=0
 
 <h1>Note for Adjustment</h1>
