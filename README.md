@@ -13,16 +13,16 @@ CalcuWaste is a mobile application that enables the user to calculate the CO2 eq
 ## How This Application Works
 How our app is used is relatively simple, the user only needs to log in and upload a recyclable image and its weight/size to show its carbon emission saving, economic value, nearby waste banks that can accommodate it, and connect them with the waste bank.
 
-There is implementation from each of the learning path :
+Here are the implementation from each of the learning path, which can be used for reference to replicate our steps in our project:
 
-- Machine Learning Implementation
-The ML path part of this app is categorizing uploaded images of recyclables into specific emission factors. The emission factor is how much carbon footprint is emitted per specific mass, which is written as CO2eq/kg. This parameter differs between each recyclable category, therefore the ML part is to categorize the multiclass classification for the image. The dataset for this implementation already trained and able to put in there [Google Drive for Dataset](https://drive.google.com/drive/folders/1wsRu9LGo_YwNcVRxo3rc49i-cNNuURxt?usp=share_link).
+### Machine Learning Implementation
+The ML path part of this app is categorizing uploaded images of recyclables into specific emission factors. The emission factor is how much carbon footprint is emitted per specific mass, which is written as CO2eq/kg. The data is gathered from reliable source which taken from a journal articles. This parameter differs between each recyclable category, therefore the ML part is to categorize the multiclass classification for the image. The dataset for this implementation already trained and able to put in there [Google Drive for Dataset](https://drive.google.com/drive/folders/1wsRu9LGo_YwNcVRxo3rc49i-cNNuURxt?usp=share_link).
 
-- Cloud Computing Implementation
-The Cloud Computing learning path part of the app is to build APIs for authentication for the registration and login for the user. Also the application need expected to catch image capture and able to proceed by the model that already made by the Machine Learning path.
+### Cloud Computing Implementation
+The Cloud Computing learning path part of the app is building APIs for authentication for the registration and login for the user. Other than that, the application expected to catch the image captured and able to process using the classification model that already made by the Machine Learning path.
 
-- Mobile Development Implementation
-The Mobile Development path part of this app is to accommodate the results of the Cloud Computing and Machine Learning paths, and create layouts and logic using Kotlin so that the application can run. The features created on the Mobile Development path are the splash screen feature, authentication feature, profile feature, taking pictures from the camera and gallery, detecting category, calculation of carbon emission formula and estimated user profit, and news related to the environment.
+### Mobile Development Implementation
+The Mobile Development learning path part of this app is to accommodate the results of the Cloud Computing and Machine Learning paths, and create layouts and logic using Kotlin so that the application can run. The features created on the Mobile Development path are the splash screen feature, authentication feature, profile feature, taking pictures from the camera and gallery, detecting category, calculation of carbon emission formula and estimated user profit, and news related to the environment.
 
 <h1>Plugins:</h1>
 
