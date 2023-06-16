@@ -24,14 +24,14 @@ The Cloud Computing learning path part of the app is building APIs for authentic
 ### Mobile Development Implementation
 The Mobile Development learning path part of this app is to accommodate the results of the Cloud Computing and Machine Learning paths, and create layouts and logic using Kotlin so that the application can run. The features created on the Mobile Development path are the splash screen feature, authentication feature, profile feature, taking pictures from the camera and gallery, detecting category, calculation of carbon emission formula and estimated user profit, and news related to the environment.
 
-<h1>Plugins:</h1>
+## Plugins:
 
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
     id 'kotlin-parcelize'
     id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin'
 
-<h1>Dependecies:</h1>
+## Dependecies:
 
     implementation 'androidx.core:core-ktx:1.10.1'
     implementation 'androidx.appcompat:appcompat:1.6.1'
