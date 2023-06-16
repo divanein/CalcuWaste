@@ -1,5 +1,5 @@
 # Cloud Computing Implementation
-The Cloud Computing learning path part of the app is to build APIs for authentication for the registration and login for the user. Also the application needs to be expected to catch image capture and able to proceed by the model that already made by the Machine Learning path. From the photo captured, we provide the service to store the resources from photo scanning objects into storage as Cloud Storage. 
+The Cloud Computing learning path part of the app is to build APIs for authentication for the registration and login for the user. Also the application needs to be expected to catch image capture and able to proceed by the model that already made by the Machine Learning path.
 
 ## API Url
 [Calcuwaste](https://backend-dot-bangkit-project-386513.et.r.appspot.com) <br>
