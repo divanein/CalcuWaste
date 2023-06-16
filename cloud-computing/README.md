@@ -1,3 +1,4 @@
+## Google Cloud Architecture
 <p align="center">
   <img src="https://github.com/divanein/CalcuWaste/assets/100034010/13586daa-cd2c-465e-aa71-3fa2fb964655" width="600" height="303-"/>
 </p>
@@ -29,3 +30,9 @@ The API for machine learning is built using Python with the Flask framework. For
 
 ### Security
 For security, the protection used namely the JWT Token, will expire every time the user logs out and will receive a new token when logging in.
+
+### Project Under Development
+#### Directory: Calcuwaste/cloud-computing/predict-project-gcp
+This directory is currently undergoing maintenance and improvements. We are actively working on it to bring you an enhanced experience soon.
+
+
