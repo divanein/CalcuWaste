@@ -1,5 +1,5 @@
 <h1>Machine Learning Implementation</h1>
-The ML path part of this app is categorizing uploaded images of recyclables into specific emission factors. The emission factor is how much carbon footprint is emitted per specific mass, which is written as CO2eq/kg. This parameter differs between each recyclable category, therefore the ML part is to categorize the multiclass classification for the image.
+The ML path part of this app is categorizing uploaded images of recyclables into specific emission factors. The emission factor is how much carbon footprint is emitted per specific mass, which is written as CO2eq/kg. The data is gathered from reliable source which taken from a journal articles. This parameter differs between each recyclable category, therefore the ML part is to categorize the multiclass classification for the image.
 
 <h1>Reference (Emission Factor)</h1>
 Turner, D. A., Williams, I. D., & Kemp, S. (2015). Greenhouse gas emission factors for recycling of source-segregated waste materials. Resources, Conservation and Recycling, 105, 186–197. https://doi.org/10.1016/j.resconrec.2015.10.026 
