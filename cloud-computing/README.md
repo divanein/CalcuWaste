@@ -18,7 +18,7 @@ The API code for Calcuwaste is built using Node.js with the Express framework. W
 *For the /api/news and /api/location we use a third party, namely the News API and API Google Maps because it is very easy to use and free so there is no need to incur costs and it is very effective to use*
 
 ### [Machine Learning](https://calcuwastepredict-awxuqbcrua-et.a.run.app) <br>
-The API for machine learning is built using Python with the Flask framework. For deployment, we use Cloud Run as a computing service and Cloud Storage as image storage. <br><br>
+The API for machine learning is built using Python with the Flask framework. For deployment, we use App Engine as a computing service. <br><br>
 |  Endpoint |  Method	     |      Query Request |           Description          |
 | :----: | :------------: | :-----------------: | :------------------------: |
 | /predict | POST   | weight      | POST request for calculate the waste |
