@@ -1,0 +1,5 @@
+Glass_ClearGlass
+Metal_AluminiumCans
+Paper_Paper
+Plastic_PET
+Textiles_Textiles

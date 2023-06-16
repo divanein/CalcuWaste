@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name" translatable="false">Calcu Waste</string>
+    <string name="copyright" translatable="false">\© C23-PR581</string>
+    <string name="greetings_auth_page">Hi, welcome to</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_auth_question_login">Don\'t have an account?</string>
+    <string name="txt_register">Register</string>
+    <string name="txt_auth_question_register">Already have an account?</string>
+    <string name="txt_name">Name</string>
+    <string name="justNow">Just Now</string>
+    <string name="logout">Logout</string>
+    <string name="change_language">Change Language</string>
+    <string name="setting">Setting</string>
+    <string name="take_image">Take Image</string>
+    <string name="gallery">Choose Gallery</string>
+    <string name="input_weight">Input Weight</string>
+    <string name="input_weight_ex">example : 3.14 gram</string>
+    <string name="const_carbonEmissions">Carbon Emissions : </string>
+    <string name="result">Result</string>
+    <string name="const_estimatedProfit">Estimated Profit : </string>
+    <string name="calculate">Calculate</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_blank" translatable="false" />
+    <string name="camera_permission">Permission Decline</string>
+    <string name="image_failed">Failed to Take Picture</string>
+    <string name="camera_failed">Failed to Load Camera</string>
+    <string name="description">Description</string>
+    <string name="required_field">This field is required</string>
+    <string name="success_register">User Account Created</string>
+    <string name="welcome">"Welcome "</string>
+    <string name="failed">"Failed: "</string>
+    <string name="validation_invalid_email">Email format is invalid</string>
+    <string name="validation_invalid_password">Password must contain at least 8 characters</string>
+    <string name="title_news" translatable="false">Title News</string>
+    <string name="published_date" translatable="false">published date</string>
+    <string name="seconds" translatable="false">seconds ago</string>
+    <string name="minutes" translatable="false">minutes ago</string>
+    <string name="hours" translatable="false">hours ago</string>
+    <string name="days" translatable="false">days ago</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="map">Show Map</string>
+    <string name="const_category">Category : </string>
+    <string name="input_image">Input image again, item still not listed</string>
+    <string name="money" translatable="false">"Rp "</string>
+    <string name="weight" translatable="false">" gr CO2eq"</string>
+</resources>

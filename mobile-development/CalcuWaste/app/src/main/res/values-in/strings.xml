@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="greetings_auth_page">Hai, selamat datang di</string>
+    <string name="txt_login">Masuk</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Kata sandi</string>
+    <string name="txt_auth_question_login">Belum punya akun?</string>
+    <string name="txt_register">Daftar</string>
+    <string name="txt_auth_question_register">Sudah punya akun?</string>
+    <string name="txt_name">Nama</string>
+    <string name="justNow">Baru Saja</string>
+    <string name="logout">Keluar</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="setting">Pengaturan</string>
+    <string name="take_image">Ambil Gambar</string>
+    <string name="gallery">Pilih Galeri</string>
+    <string name="input_weight">Masukan Berat</string>
+    <string name="input_weight_ex">contoh: 3.14 gram</string>
+    <string name="const_carbonEmissions">"Emisi Karbon : "</string>
+    <string name="result">Hasil</string>
+    <string name="const_estimatedProfit">"Taksiran Keuntungan : "</string>
+    <string name="calculate">Hitung</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_profile">Profil</string>
+    <string name="title_blank" />
+    <string name="camera_permission">Penolakan Izin</string>
+    <string name="image_failed">Gagal Mengambil Gambar</string>
+    <string name="camera_failed">Gagal Memuat Kamera</string>
+    <string name="description">Deskripsi</string>
+    <string name="required_field">Kolom ini wajib diisi</string>
+    <string name="success_register">Akun Pengguna Dibuat</string>
+    <string name="welcome">"Selamat datang "</string>
+    <string name="failed">"Gagal: "</string>
+    <string name="validation_invalid_email">Format email tidak valid</string>
+    <string name="validation_invalid_password">Kata sandi harus terdiri dari minimal 8 karakter</string>
+    <string name="map">Tampilkan Peta</string>
+    <string name="const_category">"Kategori : "</string>
+    <string name="input_image">Masukkan gambar lagi, item masih belum terdaftar</string>
+</resources>
