@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/divanein/CalcuWaste/assets/100034010/13586daa-cd2c-465e-aa71-3fa2fb964655" width="600" height="303-"/>
+</p>
+
 # Cloud Computing Implementation
 The Cloud Computing learning path part of the app is building APIs for authentication for the registration and login for the user. Other than that, the application expected to catch the image captured and able to prcess using the classification model that already made by the Machine Learning path.
 
