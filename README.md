@@ -3,8 +3,7 @@
 </p>
 
 # Calcuwaste
-CalcuWaste is a mobile application that enables the user to calculate the CO2 equivalent that can be saved by recycling, and its economic value, and connect them with the nearby waste bank to ensure a better experience in recycling.
-Here is the feature of the CalcuWaste app:
+CalcuWaste is a mobile application that enables the user to calculate the CO2 equivalent that can be saved by recycling, and its economic value, and connect them with the nearby waste bank to ensure a better experience in recycling. Here are the feature of the CalcuWaste app :
 | Main Features | Aditional Features |
 |--|--|
 |Calculate carbon emission reduction and economic value of the recyclable if recycled according to its category (plastic, metal, aluminum, etc.)|Connect the users with the recycling centers/waste banks to conduct transactions of the recyclable|
